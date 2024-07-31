@@ -2,7 +2,7 @@
 name = "comfyui-restart-sampler"
 description = "This extension is a node that directly expands the functionality of KSampler, rather than being in the form of a custom node. [w/Workflows created using this feature are not compatible with other users.]"
 version = "1.0.0"
-license = "GNU General Public License v3.0"
+license = { text = "GNU General Public License v3.0" }
 
 [project.urls]
 Repository = "https://github.com/licyk/ComfyUI-Restart-Sampler"
