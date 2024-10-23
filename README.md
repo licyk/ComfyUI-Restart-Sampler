@@ -29,14 +29,14 @@ git clone https://github.com/licyk/ComfyUI-Restart-Sampler
 ### 通过 ComfyUI-Manager 安装
 进入 ComfyUI 界面后，进入 ComfyUI-Manager，在 ComfyUI-Manager 界面点击`通过 Git URL 安装`，将下方的链接填入输入框
 ```
-git clone https://github.com/licyk/ComfyUI-Restart-Sampler
+https://github.com/licyk/ComfyUI-Restart-Sampler
 ```
 点击`确定`下载该扩展
 
 ### 通过绘世启动器安装
 打开绘世启动器，点击`版本管理`->`安装新扩展`，在下方的`扩展 URL`输入框填入下方的链接
 ```
-git clone https://github.com/licyk/ComfyUI-Restart-Sampler
+https://github.com/licyk/ComfyUI-Restart-Sampler
 ```
 点击输入框右侧的`安装`下载该扩展
 
